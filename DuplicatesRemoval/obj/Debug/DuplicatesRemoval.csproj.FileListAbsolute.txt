@@ -1,0 +1,7 @@
+C:\Users\Ilia\Desktop\SM_Task\DuplicatesRemoval\DuplicatesRemoval\bin\Debug\DuplicatesRemoval.exe.config
+C:\Users\Ilia\Desktop\SM_Task\DuplicatesRemoval\DuplicatesRemoval\bin\Debug\DuplicatesRemoval.exe
+C:\Users\Ilia\Desktop\SM_Task\DuplicatesRemoval\DuplicatesRemoval\bin\Debug\DuplicatesRemoval.pdb
+C:\Users\Ilia\Desktop\SM_Task\DuplicatesRemoval\DuplicatesRemoval\obj\Debug\DuplicatesRemoval.csprojAssemblyReference.cache
+C:\Users\Ilia\Desktop\SM_Task\DuplicatesRemoval\DuplicatesRemoval\obj\Debug\DuplicatesRemoval.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Desktop\SM_Task\DuplicatesRemoval\DuplicatesRemoval\obj\Debug\DuplicatesRemoval.exe
+C:\Users\Ilia\Desktop\SM_Task\DuplicatesRemoval\DuplicatesRemoval\obj\Debug\DuplicatesRemoval.pdb
