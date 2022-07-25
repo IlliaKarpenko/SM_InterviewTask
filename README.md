@@ -14,3 +14,8 @@ Example:
 1615560042: 0  
   
 Then run the program. It will output a stream of data containing pairs.
+Example:  
+1615560000: 1  
+1615560024: 0  
+1615560030: 1  
+1615560037: 0  
